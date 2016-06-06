@@ -5,7 +5,8 @@ A simple means of using Processing (Java) to control the AxiDraw plotter with CN
 
 Created for use with Processing [http://www.Processing.org]
 
-- install and run CNCServer (Node.js) [https://github.com/techninja/cncserver/blob/master/API.md] 
+- install CNCServer (Node.js) [https://github.com/techninja/cncserver]
+- to run use: node cncserver --botType=axidraw
 - open AxiDraw_Simple.pde in Processing
 - run
 - press 'u' to unlock motors
