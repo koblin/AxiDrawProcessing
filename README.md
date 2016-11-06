@@ -1,6 +1,8 @@
 # AxiDrawProcessing
 A simple means of using Processing (Java) to control the AxiDraw plotter with CNCServer
 
+To control without CNCServer you may prefer: https://github.com/koblin/AxiDrawProcessing2 
+
 # To use
 
 Created for use with Processing [http://www.Processing.org]
